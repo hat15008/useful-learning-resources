@@ -1,4 +1,4 @@
-# Resources that I have have used and recommend for reference and learning
+## Resources that I have have used and recommend for reference and learning
 
 -   [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 -   [JS Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
