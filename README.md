@@ -10,7 +10,7 @@
 -   [Command Line Reference](https://github.com/jlevy/the-art-of-command-line)
 -   [Awesome (List of Developer Recommended Resources)](https://github.com/sindresorhus/awesome)
 -   [JS Project Guidelines](https://github.com/elsewhencode/project-guidelines)
--   [Front-End Checklis]t(https://github.com/thedaviddias/Front-End-Checklist)
+-   [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 -   [JS Testing](https://github.com/goldbergyoni/javascript-testing-best-practices)
 -   [AWS Builders Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 -   [Front-End Happy Hour Podcast](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
